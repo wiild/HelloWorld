@@ -1,0 +1,1 @@
+Remote repository of Visual Studio
