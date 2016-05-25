@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hot Fix");
+            Console.WriteLine("Local Change");
         }
     }
 }
